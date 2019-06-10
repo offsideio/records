@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"1560135600":{"stake_amount":2010000,"dividend_amount":301},"1560150000":{"stake_amount":2050000,"dividend_amount":32},"1560153600":{"stake_amount":2050000,"dividend_amount":111},"1560157200":{"stake_amount":2050000,"dividend_amount":132},"1560160800":{"stake_amount":2050000,"dividend_amount":125},"1560164400":{"stake_amount":2050000,"dividend_amount":141},"1560168000":{"stake_amount":2050000,"dividend_amount":153}}
+=======
+{"1560135600":{"stake_amount":2010000,"dividend_amount":301},"1560146400":{"stake_amount":2050000,"dividend_amount":55}}
+>>>>>>> 69bb6271e875f910bc6bfab7ffc85b8d060af97c
